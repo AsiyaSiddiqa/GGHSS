@@ -1,3 +1,4 @@
+ 
  #maindiv{
 
 
@@ -11,8 +12,8 @@ display: flex;
     align-items: center;
  }
  #formdiv{
-    height:700px;
-    width:800px;
+    height:800px;
+    width:900px;
     border:2px solid rgb(201, 185, 185);
     border-radius: 20px;
     background:rgba(243, 240, 240, 0.5) ;
@@ -52,8 +53,8 @@ color:white;
     transform: translate(-570px,0px);
  }
  #formdiv2{
-   height:700px;
-    width:300px;
+   height:800px;
+    width:400px;
     border:2px solid rgb(201, 185, 185);
     border-radius: 20px;
     background:  linear-gradient(rgba(216, 131, 131, 0.45), rgba(228, 7, 7, 0.75));
