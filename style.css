@@ -17,7 +17,7 @@
     font-weight: bold;
 }
 .im{
-    background: linear-gradient(rgba(118, 59, 59, 0.45), rgba(15, 15, 25, 0.75)), url('Asia/Asiyaa.png') no-repeat;
+    background: linear-gradient(rgba(118, 59, 59, 0.45), rgba(15, 15, 25, 0.75)), url('Asiyaa.png') no-repeat;
   
 background-attachment: fixed;
    background-size: cover;   
@@ -64,7 +64,7 @@ background-attachment: fixed;
     transform: translate(70px , 70px);
     border-radius: 10px;
     box-shadow: 0px 0px 10px 5px rgb(237, 237, 243);
-   background: url('Asia/Msfarwa.png');
+   background: url('Msfarwa.png');
    background-size: 300px 350px;
    background-repeat:no-repeat ;
     
